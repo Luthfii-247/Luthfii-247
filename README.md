@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luthfii-247
-- 👀 I’m interested in Cloud and Network Automation
-- 🌱 I’m currently learning Cloud and Network Automation
+- 👀 I’m interested in Cloud, Security and Network Automation
+- 🌱 I’m currently learning Cloud, Security and Network Automation
 
 
 <!---
